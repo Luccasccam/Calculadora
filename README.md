@@ -1,4 +1,2 @@
 # Calculadora
-Aplicação Inicial em C# e Windows Forms
-
-https://luccasccam.github.io/Calculadora/
+Aplicação Inicial em C# Windows Forms
